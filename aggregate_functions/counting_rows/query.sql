@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM country WHERE CONTINENT='Asia' AND population > 1000000;
